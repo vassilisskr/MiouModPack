@@ -1,3 +1,5 @@
+## 1.0.4
+- Added: VikingHorse
 
 ## 1.0.3
 - Added: ServersideQoL, along with its AutoDoors, AutoStore, ContainerSigns, Signs, JustSleep, MultiplayerTweaks, TameAssist and Treesurrection modules
