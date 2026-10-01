@@ -1,7 +1,7 @@
 {
     "name": "MiouModPack",
     "version_number": "1.0.3",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/vassilisskr/MiouModPack",
     "description": "This is a mod pack made by miou!",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2351",
