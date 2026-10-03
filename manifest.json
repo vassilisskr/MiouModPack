@@ -1,6 +1,6 @@
 {
     "name": "MiouModPack",
-    "version_number": "1.0.6",
+    "version_number": "1.0.7",
     "website_url": "https://github.com/vassilisskr/MiouModPack",
     "description": "This is a mod pack made by miou!",
     "dependencies": [
@@ -22,7 +22,7 @@
         "Yorimor-EnableAchievments-1.0.0",
         "JamesJonesTV-Better_Riding-1.0.3",
         "JamesJonesTV-Elemental_Dragons-2.0.3",
-        "UnderHeiz-CraftFromContainers-4.0.62",
+        "UnderHeiz-CraftFromContainers-4.0.70",
         "DeathMonger-TheGreatestPortal-1.2.0",
         "P377Y-Smooth_Sailing-0.3.4",
         "Skarif-ReBallista-1.0.416",
@@ -47,7 +47,7 @@
         "ArgusMagnus-ServersideQoL_ContainerSigns-2.2.0",
         "ArgusMagnus-ServersideQoL_Signs-2.2.0",
         "ArgusMagnus-ServersideQoL_JustSleep-2.0.11",
-        "ArgusMagnus-ServersideQoL_MultiplayerTweaks-2.0.11",
+        "ArgusMagnus-ServersideQoL_MultiplayerTweaks-2.1.0",
         "ArgusMagnus-ServersideQoL_TameAssist-2.1.0",
         "MilkyTeam-EarthWright-0.3.1",
         "M2Valheim-VikingHorse-1.0.5",

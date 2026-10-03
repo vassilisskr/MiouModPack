@@ -1,3 +1,6 @@
+## 1.0.7
+- Updated: CraftFromContainers and ServersideQoL_MultiplayerTweaks
+
 ## 1.0.6
 - Added: BuildFreedom 
 
