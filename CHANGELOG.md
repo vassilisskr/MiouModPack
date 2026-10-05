@@ -1,3 +1,9 @@
+## 1.0.8
+- Updated: ConditionalConfigSync 1.0.9 to 1.0.10
+- Updated: ProductionCapacities 1.3.0 to 1.6.0
+- Updated: EarthWright 0.3.1 to 0.3.3
+- Updated: VikingHorse 1.0.5 to 1.0.6
+
 ## 1.0.7
 - Updated: CraftFromContainers and ServersideQoL_MultiplayerTweaks
 
