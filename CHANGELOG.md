@@ -1,3 +1,9 @@
+## 1.0.9
+- Updated: ExtraSlots 1.2.16 to 1.2.17
+- Updated: Upgrade_World 1.83.0 to 1.84.0
+- Updated: Procreation_Plus 1.2.2 to 1.2.3
+- Updated: EarthWright 0.3.3 to 0.4.1
+
 ## 1.0.8
 - Updated: ConditionalConfigSync 1.0.9 to 1.0.10
 - Updated: ProductionCapacities 1.3.0 to 1.6.0
