@@ -1,3 +1,7 @@
+## 1.1.0
+- Updated: ServersideQoL 2.2.0 to 2.2.1
+- Updated: VikingHorse 1.0.6 to 1.0.7
+
 ## 1.0.9
 - Updated: ExtraSlots 1.2.16 to 1.2.17
 - Updated: Upgrade_World 1.83.0 to 1.84.0

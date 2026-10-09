@@ -1,6 +1,6 @@
 {
     "name": "MiouModPack",
-    "version_number": "1.0.9",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/vassilisskr/MiouModPack",
     "description": "This is a mod pack made by miou!",
     "dependencies": [
@@ -41,7 +41,7 @@
         "JamesJonesTV-Ravenwood_Currency-1.0.2",
         "JamesJonesTV-Dragon_Keep-1.0.1",
         "ArgusMagnus-ServersideQoL_AutoDoors-2.2.0",
-        "ArgusMagnus-ServersideQoL-2.2.0",
+        "ArgusMagnus-ServersideQoL-2.2.1",
         "ArgusMagnus-ServersideQoL_Treesurrection-2.1.1",
         "ArgusMagnus-ServersideQoL_AutoStore-2.1.0",
         "ArgusMagnus-ServersideQoL_ContainerSigns-2.2.0",
@@ -50,7 +50,7 @@
         "ArgusMagnus-ServersideQoL_MultiplayerTweaks-2.1.0",
         "ArgusMagnus-ServersideQoL_TameAssist-2.1.0",
         "MilkyTeam-EarthWright-0.4.1",
-        "M2Valheim-VikingHorse-1.0.6",
+        "M2Valheim-VikingHorse-1.0.7",
         "DemonForge-BuildFreedom-0.1.0"
     ]
 }
