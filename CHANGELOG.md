@@ -1,3 +1,6 @@
+## 1.1.2
+- Updated: ExtraSlots 1.2.18 to 1.2.19
+
 ## 1.1.1
 - Updated: ExtraSlots 1.2.17 to 1.2.18
 - Updated: ReBallista 1.0.416 to 1.0.417

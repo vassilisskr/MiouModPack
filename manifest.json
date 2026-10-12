@@ -1,6 +1,6 @@
 {
     "name": "MiouModPack",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/vassilisskr/MiouModPack",
     "description": "This is a mod pack made by miou!",
     "dependencies": [
@@ -10,7 +10,7 @@
         "nearbear-BiggerBoatMapExploreRadius-1.0.3",
         "Trinsic-Better_Wisplight-1.0.0",
         "ValheimModding-YamlDotNet-16.3.1",
-        "shudnal-ExtraSlots-1.2.18",
+        "shudnal-ExtraSlots-1.2.19",
         "JereKuusela-Server_devcommands-1.115.0",
         "ValheimModding-JsonDotNET-13.0.4",
         "RandyKnapp-EpicLoot-0.14.13",
