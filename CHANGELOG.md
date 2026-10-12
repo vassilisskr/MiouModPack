@@ -1,3 +1,10 @@
+## 1.1.1
+- Updated: ExtraSlots 1.2.17 to 1.2.18
+- Updated: ReBallista 1.0.416 to 1.0.417
+- Updated: ServersideQoL 2.2.1 to 2.3.0
+- Updated: ServersideQoL_ContainerSigns 2.2.0 to 2.3.0
+- Updated: ServersideQoL_Signs 2.2.0 to 2.3.0
+
 ## 1.1.0
 - Updated: ServersideQoL 2.2.0 to 2.2.1
 - Updated: VikingHorse 1.0.6 to 1.0.7
