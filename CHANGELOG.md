@@ -1,3 +1,12 @@
+## 1.1.3
+- Updated: Upgrade_World 1.84.0 to 1.85.0
+- Updated: ConditionalConfigSync 1.0.10 to 1.0.11
+- Updated: TheGreatestPortal 1.2.0 to 1.2.1
+- Updated: ReBallista 1.0.417 to 1.0.419
+- Updated: DynamicExperienceGain 1.0.6 to 1.0.7
+- Updated: ServersideQoL 2.3.0 to 2.3.2
+- Updated: ServersideQoL_ContainerSigns 2.3.0 to 2.3.1
+
 ## 1.1.2
 - Updated: ExtraSlots 1.2.18 to 1.2.19
 
