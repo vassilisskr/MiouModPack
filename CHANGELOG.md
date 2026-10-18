@@ -1,3 +1,10 @@
+## 1.1.4
+- Updated: ExtraSlots 1.2.19 to 1.2.21
+- Updated: TheGreatestPortal 1.2.1 to 1.2.2
+- Updated: ServersideQoL 2.3.2 to 2.4.0
+- Updated: ServersideQoL_ContainerSigns 2.3.1 to 2.3.3
+- Updated: EarthWright 0.4.1 to 0.4.2
+
 ## 1.1.3
 - Updated: Upgrade_World 1.84.0 to 1.85.0
 - Updated: ConditionalConfigSync 1.0.10 to 1.0.11
