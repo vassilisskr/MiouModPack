@@ -1,3 +1,8 @@
+## 1.1.5
+- Updated: PlantEverything 1.21.3 to 1.21.4
+- Updated: Upgrade_World 1.85.0 to 1.86.0
+- Updated: ReBallista 1.0.419 to 1.0.424
+
 ## 1.1.4
 - Updated: ExtraSlots 1.2.19 to 1.2.21
 - Updated: TheGreatestPortal 1.2.1 to 1.2.2
